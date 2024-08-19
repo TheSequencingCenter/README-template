@@ -97,5 +97,3 @@ Give credit to those who have contributed to the project, or to any resources th
 - [Contributors](https://github.com/your-username/your-repo/graphs/contributors)
 
 ---
-
-This template should serve as a comprehensive starting point for your README files. You can adjust each section according to the specifics of each project.
