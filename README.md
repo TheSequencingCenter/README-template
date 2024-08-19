@@ -9,6 +9,7 @@ A brief description of what this project does and who it's for.
 ## Table of Contents
 
 [Installation](#installation)  
+[Requirements](#requirements)
 [Usage](#usage)  
 [Features](#features)  
 [Configuration](#configuration)  
@@ -28,6 +29,9 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 pip install -r requirements.txt
 ```
+
+## Requirements
+List the requirements to install the application.  
 
 ## Usage
 
