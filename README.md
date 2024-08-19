@@ -81,7 +81,7 @@ This application is licensed under the [MIT LICENSE](LICENSE).
 
 ## Contact
 
-Richard Casey, PhD 
+Richard Casey, PhD  
 The Sequencing Center 
 Fort Collins, CO  80524 
 USA 
