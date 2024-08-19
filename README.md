@@ -83,10 +83,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Provide contact information for those seeking support or with questions. This can include email addresses, links to issue trackers, etc.
-
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+Richard Casey, PhD  
+The Sequencing Center  
+Fort Collins, CO  80524  
+USA  
+970-980-5975  
+info@thesequencingcenter.com
+support@thesequencingcenter.com
+richard@thesequencingcenter.com  
+www.thesequencingcenter.com  
+https://www.linkedin.com/in/richardcaseyhpc/
 
 ## Acknowledgements
 
