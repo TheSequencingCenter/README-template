@@ -88,6 +88,7 @@ Richard Casey, PhD
 The Sequencing Center  
 Fort Collins, CO  80524  
 USA  
+877-425-2235
 970-980-5975  
 info@thesequencingcenter.com
 support@thesequencingcenter.com
