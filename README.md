@@ -8,14 +8,14 @@ A brief description of what this project does and who it's for.
 
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[Features](#features)
-[Configuration](#configuration)
-[Contributing](#contributing)
-[Testing](#testing)
-[License](#license)
-[Contact](#contact)
+[Installation](#installation)  
+[Usage](#usage)  
+[Features](#features)  
+[Configuration](#configuration)  
+[Contributing](#contributing)  
+[Testing](#testing)  
+[License](#license)  
+[Contact](#contact)  
 [Acknowledgements](#acknowledgements)
 
 ## Installation
