@@ -77,9 +77,10 @@ pytest tests/
 
 ## License
 
-Include the license under which the project is distributed. For example:
+This application is licensed under the [MIT LICENSE](LICENSE).
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
