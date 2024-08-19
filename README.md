@@ -82,14 +82,14 @@ This application is licensed under the [MIT LICENSE](LICENSE).
 ## Contact
 
 Richard Casey, PhD  
-The Sequencing Center 
-Fort Collins, CO  80524 
-USA 
-877-425-2235 
-970-980-5975 
-info@thesequencingcenter.com 
-support@thesequencingcenter.com 
-richard@thesequencingcenter.com 
+The Sequencing Center  
+Fort Collins, CO  80524  
+USA  
+877-425-2235  
+970-980-5975  
+info@thesequencingcenter.com  
+support@thesequencingcenter.com  
+richard@thesequencingcenter.com  
 www.thesequencingcenter.com  
 https://www.linkedin.com/in/richardcaseyhpc/
 
