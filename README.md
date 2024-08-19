@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for.
 ## Table of Contents
 
 [Installation](#installation)  
-[Requirements](#requirements)
+[Requirements](#requirements)  
 [Usage](#usage)  
 [Features](#features)  
 [Configuration](#configuration)  
