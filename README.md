@@ -15,6 +15,7 @@ A brief description of what this project does and who it's for.
 [Configuration](#configuration)  
 [Contributing](#contributing)  
 [Testing](#testing)  
+[Documentation](#documentation)  
 [License](#license)  
 [Contact](#contact)  
 [Acknowledgements](#acknowledgements)
@@ -78,6 +79,9 @@ Instructions on how to run tests for the project. Include information on unit te
 # Example of running tests
 pytest tests/
 ```
+
+## Documentation
+Show references or links to documentation.  
 
 ## License
 
