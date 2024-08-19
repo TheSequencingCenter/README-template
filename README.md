@@ -79,9 +79,6 @@ pytest tests/
 
 This application is licensed under the [MIT LICENSE](LICENSE).
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 Richard Casey, PhD  
